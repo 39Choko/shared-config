@@ -1,15 +1,17 @@
-# @39choko/prettier-config
+# Shared Config (by Choko)
 
-To install dependencies:
+[![license][license-src]][license-href]
 
-```bash
-bun install
-```
+## Packages
 
-To run:
+| Package | Version | Description |
+|---------|---------|-------------|
+| [@39choko/prettier-config](./packages/prettier-config) | [![npm version](https://img.shields.io/npm/v/@39choko/prettier-config)](https://npmjs.com/package/@39choko/prettier-config) | Choko's shared config for Prettier |
 
-```bash
-bun run src/index.ts
-```
+## License
 
-This project was created using `bun init` in bun v1.2.8. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+[MIT](./LICENSE) License © 2025 [39Choko](https://github.com/39Choko)
+
+<!-- Badges -->
+[license-src]: https://img.shields.io/github/license/39choko/shared-config
+[license-href]: ./LICENSE
