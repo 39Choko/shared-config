@@ -1,0 +1,32 @@
+{
+  "name": "@39choko/prettier-config",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "39Choko",
+  "description": "",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "url": "",
+    "directory": "packages/prettier-config"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "peerDependencies": {
+    "prettier": "^3"
+  },
+  "dependencies": {
+    "prettier-plugin-jsdoc": "^1.3.2",
+    "prettier-plugin-packagejson": "^2.5.10",
+    "prettier-plugin-sort-json": "^4.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
