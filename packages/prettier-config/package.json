@@ -1,9 +1,9 @@
 {
   "name": "@39choko/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "author": "39Choko",
-  "description": "",
+  "description": "Choko's shared config for Prettier",
   "license": "MIT",
   "private": false,
   "repository": {
