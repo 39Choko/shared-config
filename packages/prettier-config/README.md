@@ -39,7 +39,7 @@ Add `format` script to `package.json`
 
 ## License
 
-[MIT](./LICENSE) License © 2025 [39Choko](https://github.com/39Choko)
+[MIT](./LICENSE.md) License © 2025 [39Choko](https://github.com/39Choko)
 
 <!-- Badges -->
 
@@ -48,4 +48,4 @@ Add `format` script to `package.json`
 [npm-downloads-src]: https://img.shields.io/npm/dm/@39choko/prettier-config
 [npm-downloads-href]: https://npmjs.com/package/@39choko/prettier-config
 [license-src]: https://img.shields.io/github/license/@39choko/prettier-config.svg
-[license-href]: ./LICENSE
+[license-href]: ./LICENSE.md
